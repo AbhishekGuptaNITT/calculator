@@ -1,0 +1,25 @@
+.Cell{
+    margin:20px;
+    background-color: #ecf0f1;
+    box-shadow: 2px 2px 6px grey;
+    padding:5px 20px;
+}
+.ExpressionPart{
+    padding:5px;
+    width: 70%;
+    margin-bottom: 10px;
+}
+.OutputPart{
+    color:black;
+    font-weight: bolder;
+    width:20%;
+    padding: 5px;
+    right: 0px;
+    background-color: transparent;
+    border:1px solid black;
+    height: 20px;
+    float: right;
+}
+h3{
+    color: #2c3e50;
+}
